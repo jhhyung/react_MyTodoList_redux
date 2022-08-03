@@ -64,7 +64,8 @@
 - 처음에는 `id`를 컴포넌트에서 `useRef()`로 생성하여 생기는 문제인 줄 알았는데, `reducer`의 삭제 로직 구현 할 때 `객체의 불변성`을 지켜주지 않았기 때문에 발생한 문제였음
 - 원래 작성했던 코드
   `js return state.filter(todo => (todo.id !== action.payload)); `
-  ➡️ 수정한 코드
+
+➡️ 수정한 코드
 
 ```js
 case DELETE_TODO:
