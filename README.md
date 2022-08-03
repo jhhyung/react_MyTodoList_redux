@@ -1,5 +1,5 @@
 # ✔️ MY Todo List 만들기 with Redux
-<img src="./리덕스판마이투두리스트.png">
+![](https://velog.velcdn.com/images/jhhyung/post/23f1a108-7d87-462e-9326-bdf4f253e339/image.png)
 항해99 3주차에 진행했던 과제를 Redux를 이용하여 리팩토링하였습니다.
 
 ---
