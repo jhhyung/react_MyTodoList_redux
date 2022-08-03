@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* 구글 폰트 적용 */
+* {
+  font-family: 'Do Hyeon', sans-serif; 
+}
